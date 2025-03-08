@@ -7,5 +7,5 @@ class public
 		println("sum="+sum); ghhj
 	}
 }
-
+frrfrr
 	
