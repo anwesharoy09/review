@@ -1,4 +1,4 @@
-class public
+class public anwesha 
 {
 	public static void main(int args[])
 	{
@@ -7,5 +7,5 @@ class public
 		println("sum="+sum); ghhj
 	}
 }
-frrfrr
+
 	
