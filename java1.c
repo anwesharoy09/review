@@ -4,7 +4,7 @@ class public
 	{
 		int a=2,b=2,sum;#variable initialisation
 		sum=a+b;#adding two digits
-		println("sum="+sum);
+		println("sum="+sum); ghhj
 	}
 }
 
